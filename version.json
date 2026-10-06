@@ -1,0 +1,362 @@
+{
+  "version": "1.0.0",
+  "notes": "Primera version",
+  "files": [
+    {
+      "path": "SmashCrossover.exe",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/SmashCrossover.exe",
+      "sha256": "a3037502c0aebd94bed0514284657db32cdb9a0b402124307c22a9f2a7c397bc",
+      "size": 10034479
+    },
+    {
+      "path": "game/melee.exe",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--melee.exe",
+      "sha256": "6a9939e8e7d739267dd0d21efc37da8623e6bd0404f7e7e0b6aa5a860be06ff9",
+      "size": 21554872
+    },
+    {
+      "path": "game/bz2.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--bz2.dll",
+      "sha256": "68f53b16aee3c43cd10b5619a56152176e3d2594fc8bf82a3c6a686ce14c6ffc",
+      "size": 76800
+    },
+    {
+      "path": "game/dxcompiler.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--dxcompiler.dll",
+      "sha256": "8be50a43e83dc4fe8e1af9fb22c19f2c485bf3cc4ef9ed653f0358a12cac7665",
+      "size": 20231680
+    },
+    {
+      "path": "game/dxil.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--dxil.dll",
+      "sha256": "fda4dde92222ddb8564c3173ce48faa56f7e1c7b46b0b67dada1182ee07a4123",
+      "size": 1509800
+    },
+    {
+      "path": "game/fmt.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--fmt.dll",
+      "sha256": "7ff0910cf5c3e6cc4c7fb37effb9921ec68accb9f9dc557ae1399e0d25e5a4eb",
+      "size": 131072
+    },
+    {
+      "path": "game/glew32.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--glew32.dll",
+      "sha256": "de397eb94b13548b7186c7a08a54a302a4fc84e98249b2b66e32fa0f3b838a5a",
+      "size": 504832
+    },
+    {
+      "path": "game/libnod.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--libnod.dll",
+      "sha256": "6b6a27265341820dee390139e1a6eb05573a8f07de3daba52fab2cad7795ff4f",
+      "size": 1297920
+    },
+    {
+      "path": "game/libpng16.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--libpng16.dll",
+      "sha256": "e347920970e3341d1a5a0eda924a5282376569bc89e1508eb83e891da42c1ad0",
+      "size": 325399
+    },
+    {
+      "path": "game/libwinpthread-1.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--libwinpthread-1.dll",
+      "sha256": "e271f374468d584905afcdf7da96a6adeb5ee15702b39869e2003b0f102f20c4",
+      "size": 64915
+    },
+    {
+      "path": "game/libzlib1.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--libzlib1.dll",
+      "sha256": "b3011092b922b6e79ddfc6b47b01ec8502014a5d5a5c6fe6581296f94ee656a5",
+      "size": 280489
+    },
+    {
+      "path": "game/nod.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--nod.dll",
+      "sha256": "6b6a27265341820dee390139e1a6eb05573a8f07de3daba52fab2cad7795ff4f",
+      "size": 1297920
+    },
+    {
+      "path": "game/SDL2.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--SDL2.dll",
+      "sha256": "9995cd491df14364af2f90369cb7a1d31923ccf9a2ca3a0a984c0dd2d7460376",
+      "size": 1641472
+    },
+    {
+      "path": "game/SDL3.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--SDL3.dll",
+      "sha256": "38c9583844842c7a78cb4d0893c36eae332c43554077eff38482f9936e20f767",
+      "size": 2852352
+    },
+    {
+      "path": "game/spdlog.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--spdlog.dll",
+      "sha256": "e97f1179eee6a8d91cff90e87ca10aa9a94fa808b7d2cc4594b90c1fe94f5212",
+      "size": 286208
+    },
+    {
+      "path": "game/ssb64core.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--ssb64core.dll",
+      "sha256": "3d605c37eabf82d8ccdcffed623aec81e1868df687012bb95b945cc03a28df65",
+      "size": 20036608
+    },
+    {
+      "path": "game/tinyxml2.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--tinyxml2.dll",
+      "sha256": "1f3539ff80ca102657422d5a1f05e24a1122f7145d14d0b7d8d6344f96844cc5",
+      "size": 95744
+    },
+    {
+      "path": "game/webgpu_dawn.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--webgpu_dawn.dll",
+      "sha256": "eb6e9833dc75696f54fa6281432356a2baf73f4c0ad752b23a4a974d6ff91ae5",
+      "size": 10861056
+    },
+    {
+      "path": "game/z.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--z.dll",
+      "sha256": "df9356895dd1c24d058137b84a3cda5409ff8570bee5d2a587b40db3b2d1b56c",
+      "size": 91136
+    },
+    {
+      "path": "game/zip.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--zip.dll",
+      "sha256": "50d4bd241ea35a77f8a75d97cadb7709d36acb89954c819196b29338b710810e",
+      "size": 114176
+    },
+    {
+      "path": "game/f3d.o2r",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--f3d.o2r",
+      "sha256": "c3203d0acf39e0188b7bf78ccf8e201939ad1e8ae5fe9726032d66b18f2b7664",
+      "size": 21010
+    },
+    {
+      "path": "game/xover_css64_buttons.bin",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--xover_css64_buttons.bin",
+      "sha256": "fbc77028ec599df543462d8c1ff418117bd3312a630510ee3b2cfe5a83d8fd48",
+      "size": 524304
+    },
+    {
+      "path": "game/resources/dht-nodes-v1",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--dht-nodes-v1",
+      "sha256": "081af191bfe410f75b797316e8c55b1b549b070d1551fe6dc182ba9c90a31b32",
+      "size": 384
+    },
+    {
+      "path": "game/resources/discord.png",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--discord.png",
+      "sha256": "5959ab0079a5b65b25ffd46864d3fa5e777592a6d72bb97a3427ac4c6a05e209",
+      "size": 2824
+    },
+    {
+      "path": "game/resources/font-bold.ttf",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--font-bold.ttf",
+      "sha256": "769673c4355020b1e28a14c366a152da410ab6b16239fe883ebc35b73624835b",
+      "size": 414568
+    },
+    {
+      "path": "game/resources/FONT-LICENSE.txt",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--FONT-LICENSE.txt",
+      "sha256": "1cfc9eab5a504c8d3496a2dd8f3efc7c5367e0910a038d9e678659473953c76a",
+      "size": 4516
+    },
+    {
+      "path": "game/resources/font.ttf",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--font.ttf",
+      "sha256": "baccc64becc3eb7d104b7c84d99f5314a0a1f896e2b3ea6c2f22fc08d2003bee",
+      "size": 410820
+    },
+    {
+      "path": "game/resources/fps.rml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--fps.rml",
+      "sha256": "94894309c0422fc3156a89acc267a98e9ab88459a5911ea7bcc243c694735aa5",
+      "size": 337
+    },
+    {
+      "path": "game/resources/gamecontrollerdb.txt",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--gamecontrollerdb.txt",
+      "sha256": "fc61fec34b1c431596aa9701ace5d8674d0e93137c52d2dfe508386efe1ee719",
+      "size": 610778
+    },
+    {
+      "path": "game/resources/initial_pipeline_cache.db",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--initial_pipeline_cache.db",
+      "sha256": "61bca55d2b1c299dba9775f0261f64334732df0b459e58b33735d5898038a080",
+      "size": 49160192
+    },
+    {
+      "path": "game/resources/launcher.rcss",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--launcher.rcss",
+      "sha256": "7a8bad8a85d738c09e40ef6ff4d6b94c7e5fb24b9a56b1bc1e909c5bf52ea02e",
+      "size": 10585
+    },
+    {
+      "path": "game/resources/launcher.rml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--launcher.rml",
+      "sha256": "419002eb9ec106465fc98152cf24c741a093a429b474112092287c72f35d562c",
+      "size": 12228
+    },
+    {
+      "path": "game/resources/port-menu.rcss",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--port-menu.rcss",
+      "sha256": "a2d493841b4ca1ee9ac04c91ecedb1697ce50504d9917ab63b08dab2f745b72d",
+      "size": 5546
+    },
+    {
+      "path": "game/resources/port-menu.rml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--port-menu.rml",
+      "sha256": "072936cd1edf8b5de4000e545272b9e11cb7b2c13afe6342029dd3231cee9817",
+      "size": 9642
+    },
+    {
+      "path": "game/xover_test.exe",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--xover_test.exe",
+      "sha256": "db7c7235f2eb0276785d716b849c4390e52bb7c6cf47b38e584f5b6226ec03a7",
+      "size": 75927
+    },
+    {
+      "path": "game/torch.exe",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--torch.exe",
+      "sha256": "6057dbb516557cca34acd43986fc8389b12fb1b96d451ba5fda0a98600f82eee",
+      "size": 1800704
+    },
+    {
+      "path": "game/config.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--config.yml",
+      "sha256": "9009a23882f49628f4da0a6fa78da8d3b14054d0fc8f95272b799c0e578f0571",
+      "size": 1011
+    },
+    {
+      "path": "game/gamecontrollerdb.txt",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--gamecontrollerdb.txt",
+      "sha256": "6699769d50a183fc1b328b4243b6c087e28eda7f7deed742d934747bcafab0c1",
+      "size": 595551
+    },
+    {
+      "path": "game/yamls/us/audio.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--audio.yml",
+      "sha256": "512d2ab318f29bcd821c113098748253a4ee1d8e71a5b30695e7cb1c23943e47",
+      "size": 3146
+    },
+    {
+      "path": "game/yamls/us/particles.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--particles.yml",
+      "sha256": "6f144e3f0505aa840ac35ff29b64903fcbf56472c66e789d69a6896db8a681e0",
+      "size": 4167
+    },
+    {
+      "path": "game/yamls/us/reloc_animations.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_animations.yml",
+      "sha256": "b1f20b243e2481abeba4ae291f8049784ca027a7f115000bb3d8e97b9167995c",
+      "size": 265574
+    },
+    {
+      "path": "game/yamls/us/reloc_bonus.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_bonus.yml",
+      "sha256": "6b83303cd2098fbd6daa37f005bf2e798995feefab7eeb9e2e622bdcffd6d30c",
+      "size": 2949
+    },
+    {
+      "path": "game/yamls/us/reloc_effects.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_effects.yml",
+      "sha256": "4bac965e6b9b482f7e4e39bee270e3487ba2af6c10e8ae2e9734aa997f1713c7",
+      "size": 631
+    },
+    {
+      "path": "game/yamls/us/reloc_extern_data.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_extern_data.yml",
+      "sha256": "bc8bc9af0f9f1f221cc3c8a31daf1924e4a6769dfedf920782432849430cd716",
+      "size": 9313
+    },
+    {
+      "path": "game/yamls/us/reloc_fighters_common.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_fighters_common.yml",
+      "sha256": "665962f696da356e50ea111b0162bb45534745aad36698f7db48ae409118965a",
+      "size": 783
+    },
+    {
+      "path": "game/yamls/us/reloc_fighters_main.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_fighters_main.yml",
+      "sha256": "7d848abb9dfeb38df36c79cb7c1c0821e54ffc780d236991314bf1f6cdda4d21",
+      "size": 16738
+    },
+    {
+      "path": "game/yamls/us/reloc_interface.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_interface.yml",
+      "sha256": "db29d440859725d14eee2d40b58347ff28cd1a973cf587a35b64d9c1cfe34768",
+      "size": 1629
+    },
+    {
+      "path": "game/yamls/us/reloc_items.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_items.yml",
+      "sha256": "f592b5ad6382ae970c729d341eb72987a92f734e1fb3db7bf18ababb5edd5abb",
+      "size": 291
+    },
+    {
+      "path": "game/yamls/us/reloc_menus.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_menus.yml",
+      "sha256": "3cb9112057163d3dcd6249b93c2ac604a970e02a8f652793a8a6dc46ab8fbc45",
+      "size": 9102
+    },
+    {
+      "path": "game/yamls/us/reloc_misc_named.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_misc_named.yml",
+      "sha256": "5b1d7899ca36a28de1f1157a150445b08d19a3fa43a0aecba7d34ed80b5f0625",
+      "size": 765
+    },
+    {
+      "path": "game/yamls/us/reloc_movies.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_movies.yml",
+      "sha256": "fcda7408465eedc255dbc6c077119a2ddf060a0ef93c953b853bc9188e8ffaeb",
+      "size": 4340
+    },
+    {
+      "path": "game/yamls/us/reloc_scene.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_scene.yml",
+      "sha256": "4464ccd8de706d77a986e7461873cb23dfdf7e5238df3925a10be633a73ed556",
+      "size": 1581
+    },
+    {
+      "path": "game/yamls/us/reloc_stages.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_stages.yml",
+      "sha256": "f9c29d2822f3b846a7dd9e71f217dc228c2110c55d9ad95741d7bb254e894b87",
+      "size": 9158
+    },
+    {
+      "path": "game/yamls/us/reloc_submotions.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_submotions.yml",
+      "sha256": "747378e7023e7f572e9b58623b66009c466412e611528f0032237b7545172b39",
+      "size": 25727
+    },
+    {
+      "path": "game/yamls/us/reloc_transitions.yml",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--yamls--us--reloc_transitions.yml",
+      "sha256": "9aa8042ca5ae5e8562a7f0bded354a53a63519bf70d26817580aa2de3d8d010b",
+      "size": 2188
+    },
+    {
+      "path": "game/msvcp140.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--msvcp140.dll",
+      "sha256": "0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9",
+      "size": 557728
+    },
+    {
+      "path": "game/msvcp140_atomic_wait.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--msvcp140_atomic_wait.dll",
+      "sha256": "640b2aefced484d0368eea5bdd06addd0658a3a70a49256e560d6923b404a479",
+      "size": 50304
+    },
+    {
+      "path": "game/vcruntime140.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--vcruntime140.dll",
+      "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066",
+      "size": 124544
+    },
+    {
+      "path": "game/vcruntime140_1.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--vcruntime140_1.dll",
+      "sha256": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f",
+      "size": 49792
+    }
+  ],
+  "regenerate": [],
+  "remove": []
+}
