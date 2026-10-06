@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "notes": "Primera version",
+  "version": "1.0.1",
+  "notes": "SmashCrossover: los peleadores de 64 ahora pueden agarrarse de los bordes de los escenarios de Melee (antes casi nunca). Pantalla completa para los de 64, profundidad, reflectores, golpes de Melee.",
   "files": [
     {
       "path": "SmashCrossover.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--melee.exe",
-      "sha256": "6a9939e8e7d739267dd0d21efc37da8623e6bd0404f7e7e0b6aa5a860be06ff9",
-      "size": 21554872
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.1/game--melee.exe",
+      "sha256": "906532f4486d85df0338e35995168290db6067cff2ef1cdb5709da6acff37135",
+      "size": 21556493
     },
     {
       "path": "game/bz2.dll",
