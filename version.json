@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "notes": "Al cerrar el juego ya no se queda la ventana abierta. Si sales de una partida desde la pausa, los de 64 ya no empiezan congelados la siguiente. El juego abre sin la ventana de consola.",
+  "version": "1.0.7",
+  "notes": "Los personajes de 64 fuera de camara ahora salen en su burbuja. Los de Melee invencibles (al reaparecer) ya no reciben dano de los de 64.",
   "files": [
     {
       "path": "SmashCrossover.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.6/game--melee.exe",
-      "sha256": "8ce92febbc088cba688ab2d3dd1c2bcb3fa99a659d501e01abb33b211f210f31",
-      "size": 21563041
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.7/game--melee.exe",
+      "sha256": "abe0b937fdf5368fd4a728548ad3b6159ea8cf4460ffdfcb469ca4b14cf6a914",
+      "size": 21564067
     },
     {
       "path": "game/bz2.dll",
@@ -94,8 +94,8 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.4/game--ssb64core.dll",
-      "sha256": "6e057f055be85bcd6486df4e8d4bbd1904cd606582c00ef858fcc9b2082abc01",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.7/game--ssb64core.dll",
+      "sha256": "275af25566c142d8caa8f85acc3d0a498788b0e6a41cb8164bb76337d9650cd0",
       "size": 20036608
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.4/game--xover_test.exe",
-      "sha256": "02e99a2c49e8305e1cddf92ef5872517298a36c7886e44fa1e352499d3087508",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.7/game--xover_test.exe",
+      "sha256": "7397d477b7181673941017237139668f354ba319ed3fc7fe13304c493540db5d",
       "size": 75927
     },
     {
