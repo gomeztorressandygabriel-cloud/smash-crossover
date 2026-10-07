@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "notes": "Los golpes de los personajes de 64 ya no se quedan sin knockback ni hitstun. El juego ya no se cierra al arrancar si se cerro mal la vez anterior.",
+  "version": "1.0.3",
+  "notes": "La pausa tambien congela a los personajes de 64. Los personajes de 64 ya no se cortan en un cuadro mas chico que la pantalla.",
   "files": [
     {
       "path": "SmashCrossover.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.2/game--melee.exe",
-      "sha256": "88631fc93e42cbbc1b96167440a746d4330868ce2516addc7bab134569dace9a",
-      "size": 21561193
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.3/game--melee.exe",
+      "sha256": "b4d516d3d48f063e79f3514436b40fe2b670dfdd8de9171b0ae16b57df73fe8f",
+      "size": 21561723
     },
     {
       "path": "game/bz2.dll",
@@ -94,8 +94,8 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--ssb64core.dll",
-      "sha256": "3d605c37eabf82d8ccdcffed623aec81e1868df687012bb95b945cc03a28df65",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.3/game--ssb64core.dll",
+      "sha256": "3ba3cc3b5c761bee56588035b4b6ce1f8417862bfeebdc8c08f59f2c7e156c05",
       "size": 20036608
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--xover_test.exe",
-      "sha256": "db7c7235f2eb0276785d716b849c4390e52bb7c6cf47b38e584f5b6226ec03a7",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.3/game--xover_test.exe",
+      "sha256": "65ec603cee2bead2e8fd5a8e1eeffdd65e4f14200be7a30894bfb87e9b907737",
       "size": 75927
     },
     {
