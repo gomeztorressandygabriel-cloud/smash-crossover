@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "notes": "SmashCrossover: los peleadores de 64 ahora pueden agarrarse de los bordes de los escenarios de Melee (antes casi nunca). Pantalla completa para los de 64, profundidad, reflectores, golpes de Melee.",
+  "version": "1.0.2",
+  "notes": "Los golpes de los personajes de 64 ya no se quedan sin knockback ni hitstun. El juego ya no se cierra al arrancar si se cerro mal la vez anterior.",
   "files": [
     {
       "path": "SmashCrossover.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.1/game--melee.exe",
-      "sha256": "906532f4486d85df0338e35995168290db6067cff2ef1cdb5709da6acff37135",
-      "size": 21556493
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.2/game--melee.exe",
+      "sha256": "88631fc93e42cbbc1b96167440a746d4330868ce2516addc7bab134569dace9a",
+      "size": 21561193
     },
     {
       "path": "game/bz2.dll",
