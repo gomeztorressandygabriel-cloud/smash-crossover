@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "notes": "La pausa tambien congela a los personajes de 64. Los personajes de 64 ya no se cortan en un cuadro mas chico que la pantalla.",
+  "version": "1.0.4",
+  "notes": "El personaje de 64 ya no se queda congelado con la pantalla oscura al pausar (Start ya no abre la pausa de 64). El escudo y el huevo de Yoshi ya no se esconden detras del piso.",
   "files": [
     {
       "path": "SmashCrossover.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.3/game--melee.exe",
-      "sha256": "b4d516d3d48f063e79f3514436b40fe2b670dfdd8de9171b0ae16b57df73fe8f",
-      "size": 21561723
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.4/game--melee.exe",
+      "sha256": "b8952bbd035e84b3603a2f303b2a2a5cc028cbc06cadd22007c94a13b8e6957a",
+      "size": 21562237
     },
     {
       "path": "game/bz2.dll",
@@ -94,8 +94,8 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.3/game--ssb64core.dll",
-      "sha256": "3ba3cc3b5c761bee56588035b4b6ce1f8417862bfeebdc8c08f59f2c7e156c05",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.4/game--ssb64core.dll",
+      "sha256": "6e057f055be85bcd6486df4e8d4bbd1904cd606582c00ef858fcc9b2082abc01",
       "size": 20036608
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.3/game--xover_test.exe",
-      "sha256": "65ec603cee2bead2e8fd5a8e1eeffdd65e4f14200be7a30894bfb87e9b907737",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.4/game--xover_test.exe",
+      "sha256": "02e99a2c49e8305e1cddf92ef5872517298a36c7886e44fa1e352499d3087508",
       "size": 75927
     },
     {
