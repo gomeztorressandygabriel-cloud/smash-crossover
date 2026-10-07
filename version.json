@@ -1,18 +1,18 @@
 {
-  "version": "1.0.5",
-  "notes": "Los proyectiles de 64 (la bola de Samus y otros) ya no quedan detras del escenario.",
+  "version": "1.0.6",
+  "notes": "Al cerrar el juego ya no se queda la ventana abierta. Si sales de una partida desde la pausa, los de 64 ya no empiezan congelados la siguiente. El juego abre sin la ventana de consola.",
   "files": [
     {
       "path": "SmashCrossover.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/SmashCrossover.exe",
-      "sha256": "a3037502c0aebd94bed0514284657db32cdb9a0b402124307c22a9f2a7c397bc",
-      "size": 10034479
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.6/SmashCrossover.exe",
+      "sha256": "752bba069e8c8f8ca2d3b903e346da2d94e52a111dfac3001b8f79cb1e11f8ed",
+      "size": 10037279
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.5/game--melee.exe",
-      "sha256": "4421558bd7a6ba11b7aadeb48d5d771c16baffa4437882bcb7579519b90e4416",
-      "size": 21562785
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.6/game--melee.exe",
+      "sha256": "8ce92febbc088cba688ab2d3dd1c2bcb3fa99a659d501e01abb33b211f210f31",
+      "size": 21563041
     },
     {
       "path": "game/bz2.dll",
