@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "notes": "Los personajes de 64 fuera de camara ahora salen en su burbuja. Los de Melee invencibles (al reaparecer) ya no reciben dano de los de 64.",
+  "version": "1.0.8",
+  "notes": "Online con rollback para los personajes de 64 (sin desync). El boton 64 aparece en todos los modos, incluido Online. Textos del modo Online arreglados. Widescreen: los de 64 ya no se estiran. En Online, si uno cancela en la seleccion de escenario, ambos vuelven.",
   "files": [
     {
       "path": "SmashCrossover.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.7/game--melee.exe",
-      "sha256": "abe0b937fdf5368fd4a728548ad3b6159ea8cf4460ffdfcb469ca4b14cf6a914",
-      "size": 21564067
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.8/game--melee.exe",
+      "sha256": "df7308c26a0ed1697dc4c1a6c1c9ccccf82808785589abdcc9279c86481ea679",
+      "size": 21568783
     },
     {
       "path": "game/bz2.dll",
@@ -94,9 +94,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.7/game--ssb64core.dll",
-      "sha256": "275af25566c142d8caa8f85acc3d0a498788b0e6a41cb8164bb76337d9650cd0",
-      "size": 20036608
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.8/game--ssb64core.dll",
+      "sha256": "9dc5e308d52e0a0269556b9d115edd64d8660a8ab64a12817965cbaab66778fc",
+      "size": 20109312
     },
     {
       "path": "game/tinyxml2.dll",
@@ -208,8 +208,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.7/game--xover_test.exe",
-      "sha256": "7397d477b7181673941017237139668f354ba319ed3fc7fe13304c493540db5d",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.8/game--xover_test.exe",
+      "sha256": "91b44ad70035e25750e42031645c5a2b2363f20e91997e58fb64fd5d15979a61",
       "size": 75927
     },
     {
