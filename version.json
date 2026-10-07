@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "notes": "El personaje de 64 ya no se queda congelado con la pantalla oscura al pausar (Start ya no abre la pausa de 64). El escudo y el huevo de Yoshi ya no se esconden detras del piso.",
+  "version": "1.0.5",
+  "notes": "Los proyectiles de 64 (la bola de Samus y otros) ya no quedan detras del escenario.",
   "files": [
     {
       "path": "SmashCrossover.exe",
@@ -10,9 +10,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.4/game--melee.exe",
-      "sha256": "b8952bbd035e84b3603a2f303b2a2a5cc028cbc06cadd22007c94a13b8e6957a",
-      "size": 21562237
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.5/game--melee.exe",
+      "sha256": "4421558bd7a6ba11b7aadeb48d5d771c16baffa4437882bcb7579519b90e4416",
+      "size": 21562785
     },
     {
       "path": "game/bz2.dll",
