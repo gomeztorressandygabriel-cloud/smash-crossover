@@ -1,6 +1,6 @@
 {
-  "version": "1.0.10",
-  "notes": "Nueva pantalla de titulo: SUPER SMASH BROS. 64 VS MELEE.",
+  "version": "1.0.11",
+  "notes": "Arreglado: el B lateral (Raptor Boost) de Captain Falcon y Ganondorf de Melee ahora le pega a los personajes de 64. Arreglado el cierre del juego cuando Pikachu o Pichu usaban Trueno (por ejemplo en la demo del titulo).",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.10/game--melee.exe",
-      "sha256": "ea772dda3ba6da179018a2132ec4d2f66d40eb9e0d8dfd4bcbbcfe4635b9e580",
-      "size": 21573735
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.11/game--melee.exe",
+      "sha256": "54ba81ed2beaa444faf863bfcbf4db9b32389afaface5060f9b8f609194fa73b",
+      "size": 21574185
     },
     {
       "path": "game/bz2.dll",
