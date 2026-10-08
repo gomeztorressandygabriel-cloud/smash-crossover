@@ -2,9 +2,15 @@
 
 Super Smash Bros. 64 y Super Smash Bros. Melee en la misma partida.
 
+## ⬇️ Descargar
+
+### **[Descargar Smash64VSMelee.zip](https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/latest/download/Smash64VSMelee.zip)**
+
+Ese enlace siempre baja la última versión. No descargues nada de "Archivos del actualizador": son archivos internos.
+
 ## Instalar
 
-1. Descarga `Smash64VSMelee-<version>.zip` del [último release](../../releases/latest) y descomprímelo.
+1. Descomprime `Smash64VSMelee.zip`.
 2. Abre `Smash 64 VS Melee.exe`.
 3. Elige **tu** ROM de Super Smash Bros. (N64, USA) y **tu** ISO de Super Smash Bros. Melee (GameCube NTSC 1.02).
    Los juegos no vienen incluidos: el instalador prepara todo con los tuyos.
