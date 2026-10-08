@@ -1,6 +1,6 @@
 {
-  "version": "1.0.11",
-  "notes": "Arreglado: el B lateral (Raptor Boost) de Captain Falcon y Ganondorf de Melee ahora le pega a los personajes de 64. Arreglado el cierre del juego cuando Pikachu o Pichu usaban Trueno (por ejemplo en la demo del titulo).",
+  "version": "1.0.12",
+  "notes": "Los personajes de 64 hacen su entrada original al empezar la partida (Mario sale del tubo, Fox del Arwing, Kirby de la estrella...), terminando justo al GO.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,8 +16,8 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.11/game--melee.exe",
-      "sha256": "54ba81ed2beaa444faf863bfcbf4db9b32389afaface5060f9b8f609194fa73b",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.12/game--melee.exe",
+      "sha256": "8fe3fbaacc751a662e3d08a05924d2c66db5b82afd72ad6ccdbb91ccef623fbf",
       "size": 21574185
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/game--ssb64core.dll",
-      "sha256": "dfb0afaf25ed816d16a996ea91d870b05571ba48df6584a07bb3a4025749687c",
-      "size": 20113408
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.12/game--ssb64core.dll",
+      "sha256": "b08f03149c6323bd2270f825f572d3101aa393abdb8fd4c3eedd6a58b6b8e495",
+      "size": 20113920
     },
     {
       "path": "game/tinyxml2.dll",
@@ -220,9 +220,9 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/game--xover_test.exe",
-      "sha256": "a32a1ca2687f2564e06533cd6a81002935a560ddc17ac8bafea44e2ff78790ef",
-      "size": 77681
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.12/game--xover_test.exe",
+      "sha256": "94fc06eb1543ffada21a839b81a06b0741145647d2bb09a0d356521f7d8eb61d",
+      "size": 78328
     },
     {
       "path": "game/torch.exe",
