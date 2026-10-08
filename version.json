@@ -1,6 +1,6 @@
 {
-  "version": "1.0.15",
-  "notes": "Arreglado: los personajes de 64 ya no atraviesan Final Destination por debajo (entraban por el lado izquierdo y salian arriba). Tambien corrige paredes izquierdas y techos en otros escenarios.",
+  "version": "1.0.16",
+  "notes": "Kirby 64 ahora usa los sombreros de Smash Remix al copiar a Dr. Mario, Ganondorf y Falco de Melee (con el poder de Mario, Captain Falcon y Fox). Incluye el arreglo de Final Destination de la 1.0.15.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,8 +16,8 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.15--game--melee.exe",
-      "sha256": "befc40eab8f735a92c523b243e2b31c65c28352c62d7805f21406f4c9ee3da44",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.16--game--melee.exe",
+      "sha256": "e113d9f46d710c103881d68cf954ffb5fe541ca80b0f63235219ce15ac2442d5",
       "size": 21594750
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.15--game--ssb64core.dll",
-      "sha256": "fba342276364a074bb1d2e329f95ab038e35bf45bc05bb246493f39223e72aaf",
-      "size": 20113920
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.16--game--ssb64core.dll",
+      "sha256": "2fc3bc8942bf201b7770f7e1f18b27cd1b1679f73055e600d2d4d621b7ef808e",
+      "size": 20125184
     },
     {
       "path": "game/tinyxml2.dll",
@@ -225,6 +225,12 @@
       "size": 1486136
     },
     {
+      "path": "game/resources/xover_kirby_hats.bin",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.16--game--resources--xover_kirby_hats.bin",
+      "sha256": "f6b1fca0e9c823f03a6869dee4b3be827de8cd8df465b88f50590633c5be53bf",
+      "size": 274028
+    },
+    {
       "path": "game/resources/xover_online_bg.bin",
       "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.14--game--resources--xover_online_bg.bin",
       "sha256": "b3fb29936bcc6518b54b5f6ebdc10e96ed4d16a5a1725299b89369656e4143d7",
@@ -238,8 +244,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.15--game--xover_test.exe",
-      "sha256": "c24ba1353521dcdcd998c720f72948e8099005bef30e66aebc0752a145278eb4",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.16--game--xover_test.exe",
+      "sha256": "de2a36b6df772e2e2719defebf62814458c4d127d8e4e92246520e3c71f80429",
       "size": 78840
     },
     {
