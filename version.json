@@ -1,6 +1,6 @@
 {
-  "version": "1.0.17",
-  "notes": "Kirby 64 ahora copia a Marth y Roy de Melee con sus poderes de Smash Remix: sombrero, espada en la mano y el Dancing Blade (tres golpes, arriba/medio/abajo con el stick). Funciona online sin desincronizar.",
+  "version": "1.0.18",
+  "notes": "Kirby 64 copia a mas personajes de Melee con sus poderes de Smash Remix: Peach (embiste con Peach Bomber y rebota al pegar) y Bowser (aliento de fuego con municion que se recarga). Ya estaban Marth y Roy.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,8 +16,8 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.17--game--melee.exe",
-      "sha256": "c3368cece39095f49643e41df9ebb76573d18ffdeb093315c81b80a6ba3cdc18",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.18--game--melee.exe",
+      "sha256": "e88954e726ecf027885eec0415703a956ec17b99d7a5a0a5835f77ffa2e1d7dd",
       "size": 21594750
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.17--game--ssb64core.dll",
-      "sha256": "2895fe7b855951064661a2717929caf2df0f517074d1fcdf7aec94ce419c1990",
-      "size": 20242432
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.18--game--ssb64core.dll",
+      "sha256": "5d0ca5cca89e01711bc99c548a7f42ebf4b0acbcce78d16c5e78d24a7bc11301",
+      "size": 20259328
     },
     {
       "path": "game/tinyxml2.dll",
@@ -232,9 +232,9 @@
     },
     {
       "path": "game/resources/xover_kirby_powers.bin",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.17--game--resources--xover_kirby_powers.bin",
-      "sha256": "036c8906b07da6c1575e125d83ef9381e413ee1b07fca01745ecbc02f661c999",
-      "size": 94632
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.18--game--resources--xover_kirby_powers.bin",
+      "sha256": "5dbab144c47b3187c47133ec2e004848e2f0a9dbaf22f132187281fa94d17d7a",
+      "size": 122160
     },
     {
       "path": "game/resources/xover_online_bg.bin",
@@ -250,8 +250,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.17--game--xover_test.exe",
-      "sha256": "8f254b58421f93ac0bcffa40e8d863de6a4f9786f258abfdde318df862b03c55",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.18--game--xover_test.exe",
+      "sha256": "4804da136634912517a791428abaeabc94410a8d6715af48dfd40378770fe237",
       "size": 79352
     },
     {
