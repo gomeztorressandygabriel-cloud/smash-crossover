@@ -1,18 +1,24 @@
 {
-  "version": "1.0.8",
-  "notes": "Online con rollback para los personajes de 64 (sin desync). El boton 64 aparece en todos los modos, incluido Online. Textos del modo Online arreglados. Widescreen: los de 64 ya no se estiran. En Online, si uno cancela en la seleccion de escenario, ambos vuelven.",
+  "version": "1.0.9",
+  "notes": "Ahora se llama Smash 64 VS Melee (abre 'Smash 64 VS Melee.exe'). En la seleccion de personaje, los de 64 aparecen como en su juego original: giran en la puerta al pasar la ficha y hacen su pose al elegirlos (VS, 1P y Online).",
   "files": [
     {
+      "path": "Smash 64 VS Melee.exe",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/Smash_64_VS_Melee.exe",
+      "sha256": "e565e27ac14afe886c1a673dc628a9873ed420c5267446916a6195910ce36437",
+      "size": 10035916
+    },
+    {
       "path": "SmashCrossover.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.6/SmashCrossover.exe",
-      "sha256": "752bba069e8c8f8ca2d3b903e346da2d94e52a111dfac3001b8f79cb1e11f8ed",
-      "size": 10037279
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/Smash_64_VS_Melee.exe",
+      "sha256": "e565e27ac14afe886c1a673dc628a9873ed420c5267446916a6195910ce36437",
+      "size": 10035916
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.8/game--melee.exe",
-      "sha256": "df7308c26a0ed1697dc4c1a6c1c9ccccf82808785589abdcc9279c86481ea679",
-      "size": 21568783
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/game--melee.exe",
+      "sha256": "3721c219e432b74a6d59ff46524d3f5bd6e39dde3927b51ad0977f5b1dd04fed",
+      "size": 21570712
     },
     {
       "path": "game/bz2.dll",
@@ -94,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.8/game--ssb64core.dll",
-      "sha256": "9dc5e308d52e0a0269556b9d115edd64d8660a8ab64a12817965cbaab66778fc",
-      "size": 20109312
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/game--ssb64core.dll",
+      "sha256": "dfb0afaf25ed816d16a996ea91d870b05571ba48df6584a07bb3a4025749687c",
+      "size": 20113408
     },
     {
       "path": "game/tinyxml2.dll",
@@ -208,9 +214,9 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.8/game--xover_test.exe",
-      "sha256": "91b44ad70035e25750e42031645c5a2b2363f20e91997e58fb64fd5d15979a61",
-      "size": 75927
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/game--xover_test.exe",
+      "sha256": "a32a1ca2687f2564e06533cd6a81002935a560ddc17ac8bafea44e2ff78790ef",
+      "size": 77681
     },
     {
       "path": "game/torch.exe",
