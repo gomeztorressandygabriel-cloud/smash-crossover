@@ -1,6 +1,6 @@
 {
-  "version": "1.0.14",
-  "notes": "Launcher nuevo (Jugar / Configuracion / Actualizar / Salir). Online: seccion AMIGOS con fondo nuevo (agregar por codigo, aceptar solicitudes, ver quien esta en linea y desafiarlo). Ping y delay con tu rival antes de la seleccion y un indicador discreto arriba en la partida. El online entra en la pestana Melee con 4 vidas y 8 minutos. Retratos de 64 en HD. Camara arreglada con personajes de 64. Burbuja de 64 mejorada. El color de los personajes de 64 se respeta online. Los crashes quedan guardados y el launcher te ofrece enviarlos.",
+  "version": "1.0.15",
+  "notes": "Arreglado: los personajes de 64 ya no atraviesan Final Destination por debajo (entraban por el lado izquierdo y salian arriba). Tambien corrige paredes izquierdas y techos en otros escenarios.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.14--game--melee.exe",
-      "sha256": "c3976a83ee3084203db297a61f4c466ac17361c706734ec9b09e6014c3844ee9",
-      "size": 21593780
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.15--game--melee.exe",
+      "sha256": "befc40eab8f735a92c523b243e2b31c65c28352c62d7805f21406f4c9ee3da44",
+      "size": 21594750
     },
     {
       "path": "game/bz2.dll",
@@ -100,8 +100,8 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.13--game--ssb64core.dll",
-      "sha256": "a321e55669bf5f0cf8ef5cd75db8bd73de585cc6d4a5db54d3f379d08c16b85c",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.15--game--ssb64core.dll",
+      "sha256": "fba342276364a074bb1d2e329f95ab038e35bf45bc05bb246493f39223e72aaf",
       "size": 20113920
     },
     {
@@ -238,8 +238,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.13--game--xover_test.exe",
-      "sha256": "834194cfc6d8082d975ff5dd79574d53565044747671aef575ca3cd2b8fe4f42",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.15--game--xover_test.exe",
+      "sha256": "c24ba1353521dcdcd998c720f72948e8099005bef30e66aebc0752a145278eb4",
       "size": 78840
     },
     {
