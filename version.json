@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
-  "notes": "Ahora se llama Smash 64 VS Melee (abre 'Smash 64 VS Melee.exe'). En la seleccion de personaje, los de 64 aparecen como en su juego original: giran en la puerta al pasar la ficha y hacen su pose al elegirlos (VS, 1P y Online).",
+  "version": "1.0.10",
+  "notes": "Nueva pantalla de titulo: SUPER SMASH BROS. 64 VS MELEE.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.9/game--melee.exe",
-      "sha256": "3721c219e432b74a6d59ff46524d3f5bd6e39dde3927b51ad0977f5b1dd04fed",
-      "size": 21570712
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.10/game--melee.exe",
+      "sha256": "ea772dda3ba6da179018a2132ec4d2f66d40eb9e0d8dfd4bcbbcfe4635b9e580",
+      "size": 21573735
     },
     {
       "path": "game/bz2.dll",
@@ -211,6 +211,12 @@
       "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.0/game--resources--port-menu.rml",
       "sha256": "072936cd1edf8b5de4000e545272b9e11cb7b2c13afe6342029dd3231cee9817",
       "size": 9642
+    },
+    {
+      "path": "game/resources/xover_title_logo.bin",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/v1.0.10/game--resources--xover_title_logo.bin",
+      "sha256": "c00a5f569ea5e38fde21a32e20d9fd67384370aa8f4243d8cc047fe51a4a77a3",
+      "size": 1896456
     },
     {
       "path": "game/xover_test.exe",
