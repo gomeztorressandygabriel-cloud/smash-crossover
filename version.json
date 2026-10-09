@@ -1,6 +1,6 @@
 {
-  "version": "1.0.23",
-  "notes": "Kirby 64 copia a Mr. Game & Watch: se vuelve una silueta negra estilo LCD y su B lanza comida del Chef (salchichas y peces) en arcos. Arreglado un error del online: cuando un personaje de 64 salia volando por arriba (KO de estrella) durante un rollback, las dos partidas podian desincronizarse.",
+  "version": "1.0.24",
+  "notes": "Kirby 64 ya copia a todos los de Melee: con Zelda se pone su pelo con corona y su B es el Amor de Nayru (giro con cristal que refleja proyectiles, 4 golpes que atraen y uno final que lanza); con los Ice Climbers se pone la capucha de Popo y su B lanza un bloque de hielo que se desliza por el suelo.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,8 +16,8 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.23--game--melee.exe",
-      "sha256": "a4da6d47b83e2a16740772d226d92d47f38634d636d05a208cf2f5633ffcc84a",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--melee.exe",
+      "sha256": "57bf439137c3bd687dd59ac0a206a550dc91eff366de42b7d8c756be9302021d",
       "size": 21616026
     },
     {
@@ -100,7 +100,13 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.23--game--ssb64core.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--ssb64core.dll",
+      "sha256": "4cf06c4e446f056757ff9482c639873f72d9eb1d705f1488706f4f936a284ab4",
+      "size": 20301312
+    },
+    {
+      "path": "game/ssb64core.prev.dll",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--ssb64core.prev.dll",
       "sha256": "018a1be3604780c24e79a84f1ea2772534a05359bef757144b8b80868328ef98",
       "size": 20284416
     },
@@ -226,9 +232,9 @@
     },
     {
       "path": "game/resources/xover_kirby_hats.bin",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.16--game--resources--xover_kirby_hats.bin",
-      "sha256": "f6b1fca0e9c823f03a6869dee4b3be827de8cd8df465b88f50590633c5be53bf",
-      "size": 274028
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--resources--xover_kirby_hats.bin",
+      "sha256": "68782c075be816422957cb350865282951df8fab0b61c9a837af821482a0d614",
+      "size": 534548
     },
     {
       "path": "game/resources/xover_kirby_powers.bin",
@@ -250,9 +256,9 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.23--game--xover_test.exe",
-      "sha256": "aced05f58869e8c4828b34792558e074545dd372d32d58a8848326bd5f311bff",
-      "size": 79352
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--xover_test.exe",
+      "sha256": "73bee53407ac64c11d8142ebed34f590035555097495779f56b61df487637d0a",
+      "size": 79527
     },
     {
       "path": "game/torch.exe",
