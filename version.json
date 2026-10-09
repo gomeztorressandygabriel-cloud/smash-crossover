@@ -1,6 +1,6 @@
 {
-  "version": "1.0.27",
-  "notes": "Los graficos de los personajes de 64 ahora van aparte de los de Melee (launcher > Configuracion): 'Resolucion 64' (Original 480, 720 o Igual que Melee), 'Antialiasing 64' y 'Sombras de los de 64'. Por defecto van en Original y sin antialiasing, lo mas ligero, como antes de la 1.0.21. Arreglado tambien que si el juego se cerraba por algo de la parte de 64 no llegaba la alerta de cierre.",
+  "version": "1.0.28",
+  "notes": "Arreglada la bajada de rendimiento con personajes de 64 que trajo la 1.0.25 (con las sombras activadas el juego podia caer a unos 35 FPS). Modo 120 FPS: ya no se apaga por pequenos retrasos normales; solo cuando tu PC de verdad no llega (entonces vuelve a 60 un rato sin que el juego se frene y lo reintenta).",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.27--game--melee.exe",
-      "sha256": "a270f589ef641970bb307806588f036e44d2c9a8f58331f8f0ec5a58f68e2c32",
-      "size": 21619414
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.28--game--melee.exe",
+      "sha256": "d4daa5175135a904b299879cb156e9f64033dc562022a1d742c4dc05048f136e",
+      "size": 21619538
     },
     {
       "path": "game/bz2.dll",
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.25--game--ssb64core.dll",
-      "sha256": "258651e511f5d7e947217c90472167cb0be65ab6d3aac3e078f284b7a81706bf",
-      "size": 20302848
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.28--game--ssb64core.dll",
+      "sha256": "581d74f839df67c2478da2e2ece3336b1d369f9a877e9a1ccdf7909cf4ba96dc",
+      "size": 20302336
     },
     {
       "path": "game/ssb64core.prev.dll",
