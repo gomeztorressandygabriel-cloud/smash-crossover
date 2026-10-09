@@ -1,24 +1,24 @@
 {
-  "version": "1.0.25",
-  "notes": "Arreglado: el juego se cerraba al empezar cualquier partida con un personaje de 64 (al pasar de la seleccion de personajes a la partida). Arregladas las sombras de los personajes de 64, que no se veian desde la 1.0.21; tambien vuelve a funcionar bien que se vean delante o detras del escenario. Kirby de Melee: el personaje de 64 ya no puede escaparse a mitad del trago.",
+  "version": "1.0.26",
+  "notes": "Nueva opcion en el launcher (Configuracion): 'Sombras de los de 64'. Si tu PC va justo, apagala para ganar rendimiento; las sombras de los de Melee no cambian.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.22--Smash_64_VS_Melee.exe",
-      "sha256": "cd98f82fd6aab39e8dffbef04caa2e646afa4cd9ae67fd64da0157cb02f7f6a4",
-      "size": 23727345
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.26--Smash_64_VS_Melee.exe",
+      "sha256": "5b9beb629785f42f31df0da0fcbf3b2ce85bb6240feaf47a49aec8add054caab",
+      "size": 23727554
     },
     {
       "path": "SmashCrossover.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.22--Smash_64_VS_Melee.exe",
-      "sha256": "cd98f82fd6aab39e8dffbef04caa2e646afa4cd9ae67fd64da0157cb02f7f6a4",
-      "size": 23727345
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.26--Smash_64_VS_Melee.exe",
+      "sha256": "5b9beb629785f42f31df0da0fcbf3b2ce85bb6240feaf47a49aec8add054caab",
+      "size": 23727554
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.25--game--melee.exe",
-      "sha256": "6c5a3d26db4724b5df52905cf1ab57b49a65caac694ea29f2861eb39ddc3493b",
-      "size": 21618160
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.26--game--melee.exe",
+      "sha256": "1c1536ff4edd1052dd9bea8268c5956bbba8a8fa20fc0a380e79bba905003dec",
+      "size": 21618217
     },
     {
       "path": "game/bz2.dll",
