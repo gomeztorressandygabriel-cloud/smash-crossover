@@ -1,6 +1,6 @@
 {
-  "version": "1.0.24",
-  "notes": "Kirby 64 ya copia a todos los de Melee: con Zelda se pone su pelo con corona y su B es el Amor de Nayru (giro con cristal que refleja proyectiles, 4 golpes que atraen y uno final que lanza); con los Ice Climbers se pone la capucha de Popo y su B lanza un bloque de hielo que se desliza por el suelo.",
+  "version": "1.0.25",
+  "notes": "Arreglado: el juego se cerraba al empezar cualquier partida con un personaje de 64 (al pasar de la seleccion de personajes a la partida). Arregladas las sombras de los personajes de 64, que no se veian desde la 1.0.21; tambien vuelve a funcionar bien que se vean delante o detras del escenario. Kirby de Melee: el personaje de 64 ya no puede escaparse a mitad del trago.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--melee.exe",
-      "sha256": "57bf439137c3bd687dd59ac0a206a550dc91eff366de42b7d8c756be9302021d",
-      "size": 21616026
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.25--game--melee.exe",
+      "sha256": "6c5a3d26db4724b5df52905cf1ab57b49a65caac694ea29f2861eb39ddc3493b",
+      "size": 21618160
     },
     {
       "path": "game/bz2.dll",
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--ssb64core.dll",
-      "sha256": "4cf06c4e446f056757ff9482c639873f72d9eb1d705f1488706f4f936a284ab4",
-      "size": 20301312
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.25--game--ssb64core.dll",
+      "sha256": "258651e511f5d7e947217c90472167cb0be65ab6d3aac3e078f284b7a81706bf",
+      "size": 20302848
     },
     {
       "path": "game/ssb64core.prev.dll",
