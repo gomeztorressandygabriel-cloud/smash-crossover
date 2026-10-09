@@ -1,6 +1,6 @@
 {
-  "version": "1.0.28",
-  "notes": "Arreglada la bajada de rendimiento con personajes de 64 que trajo la 1.0.25 (con las sombras activadas el juego podia caer a unos 35 FPS). Modo 120 FPS: ya no se apaga por pequenos retrasos normales; solo cuando tu PC de verdad no llega (entonces vuelve a 60 un rato sin que el juego se frene y lo reintenta).",
+  "version": "1.0.29",
+  "notes": "Arreglado: el agarre hacia arriba de Kirby de Melee mataba en el aire a los personajes de 64 (ahora, como en Melee, nadie muere mientras esta agarrado). Arreglado: el laser de Fox de Melee (y el de Kirby cuando copia a Fox) no hacia dano a los personajes de 64; ahora cada laser suma su dano sin empujar, como en Melee.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.28--game--melee.exe",
-      "sha256": "d4daa5175135a904b299879cb156e9f64033dc562022a1d742c4dc05048f136e",
-      "size": 21619538
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.29--game--melee.exe",
+      "sha256": "aa8949c891fde3e9e23f74f26eefca1888578149eb77759d4dc61d0578c972ff",
+      "size": 21619598
     },
     {
       "path": "game/bz2.dll",
@@ -100,8 +100,8 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.28--game--ssb64core.dll",
-      "sha256": "581d74f839df67c2478da2e2ece3336b1d369f9a877e9a1ccdf7909cf4ba96dc",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.29--game--ssb64core.dll",
+      "sha256": "a2a34c2b1761c54c6ea996b824c3c683ca3642f54bf07125879a2e738ab6c07f",
       "size": 20302336
     },
     {
