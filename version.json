@@ -1,6 +1,6 @@
 {
-  "version": "1.0.22",
-  "notes": "Modo 120 FPS opcional (Configuracion > Modo 120 FPS): dibuja un cuadro intermedio interpolado entre cada cuadro del juego, en Melee y en los personajes de 64, sin cambiar la logica (sigue a 60). Necesita monitor de 120 Hz o VSync apagado y una PC que lo aguante (si no le da, se apaga solo para no ralentizar). Amigos: la lista muestra el ping de cada amigo conectado y retarlos conecta mucho mejor (tambien en la misma red). El iman PSI de Ness absorbe proyectiles entre los dos juegos.",
+  "version": "1.0.23",
+  "notes": "Kirby 64 copia a Mr. Game & Watch: se vuelve una silueta negra estilo LCD y su B lanza comida del Chef (salchichas y peces) en arcos. Arreglado un error del online: cuando un personaje de 64 salia volando por arriba (KO de estrella) durante un rollback, las dos partidas podian desincronizarse.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,8 +16,8 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.22--game--melee.exe",
-      "sha256": "e64ce5968634a6730fb640f28871ee8d263add819eaf3046307c96a9a5f29ddc",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.23--game--melee.exe",
+      "sha256": "a4da6d47b83e2a16740772d226d92d47f38634d636d05a208cf2f5633ffcc84a",
       "size": 21616026
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.22--game--ssb64core.dll",
-      "sha256": "c6f43b78439bc74ac5b2d02f82b40a62af87d101f0967ded40c44933f703b39b",
-      "size": 20279808
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.23--game--ssb64core.dll",
+      "sha256": "018a1be3604780c24e79a84f1ea2772534a05359bef757144b8b80868328ef98",
+      "size": 20284416
     },
     {
       "path": "game/tinyxml2.dll",
@@ -250,8 +250,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.22--game--xover_test.exe",
-      "sha256": "7b9a0d5905a6d1fa9fc4c67dbcb4bb0933c3e2f5fc92ce3f1a24e823a6625bd3",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.23--game--xover_test.exe",
+      "sha256": "aced05f58869e8c4828b34792558e074545dd372d32d58a8848326bd5f311bff",
       "size": 79352
     },
     {
