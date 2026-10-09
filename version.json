@@ -1,24 +1,24 @@
 {
-  "version": "1.0.19",
-  "notes": "Kirby 64 copia a Sheik (lanza agujas que se cargan hasta 6, en tierra y aire) y a Mewtwo (Shadow Ball que se carga y ondula al volar), con sus poderes de Smash Remix. Con esto Kirby ya copia a todos los de Melee que no estan en 64 salvo Ice Climbers, Zelda y Game & Watch.",
+  "version": "1.0.20",
+  "notes": "Los personajes de 64 ahora toman la luz de cada escenario de Melee (color y direccion) y proyectan sombras detalladas sobre el escenario como los de Melee. El lanzador pregunta si quieres un acceso directo en el escritorio y muestra BETA - by King.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.13--Smash_64_VS_Melee.exe",
-      "sha256": "7356a301af67e8f96ff17557d56e0dcfa50c60030e6dd888fa060ce6f8ae1219",
-      "size": 23726743
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.20--Smash_64_VS_Melee.exe",
+      "sha256": "171260a0578a35cc8b4d3c98c00f0724029f259cede8ba6e1410c607fd97cafc",
+      "size": 23725487
     },
     {
       "path": "SmashCrossover.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.13--Smash_64_VS_Melee.exe",
-      "sha256": "7356a301af67e8f96ff17557d56e0dcfa50c60030e6dd888fa060ce6f8ae1219",
-      "size": 23726743
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.20--Smash_64_VS_Melee.exe",
+      "sha256": "171260a0578a35cc8b4d3c98c00f0724029f259cede8ba6e1410c607fd97cafc",
+      "size": 23725487
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.19--game--melee.exe",
-      "sha256": "47b88a38f09667cb98764bee6277f411d9702906bd8c7451e048fe29e6fcce2f",
-      "size": 21594750
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.20--game--melee.exe",
+      "sha256": "3753d3c307d2218a24214c5b507d5ded2abc101cb9e2b49b7bd7b1635d0e7923",
+      "size": 21601938
     },
     {
       "path": "game/bz2.dll",
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.19--game--ssb64core.dll",
-      "sha256": "97ff5584b34af3ea63627ff535dfc2076eccdd1b3c5872f4d2c7e38b88101baf",
-      "size": 20268032
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.20--game--ssb64core.dll",
+      "sha256": "6163d5e14a5852feda1884c2dad32b427de1356c7a4fc026465494e28265a276",
+      "size": 20270592
     },
     {
       "path": "game/tinyxml2.dll",
@@ -250,8 +250,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.19--game--xover_test.exe",
-      "sha256": "9fa0f3805607b6e1d5d701cf175ae0ac08faef50924a8fab1a1ca3443d42ab4e",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.20--game--xover_test.exe",
+      "sha256": "72df06a14a3941eebb399f19e12200aae2c50ee421b07290935e2faf3eef5bd9",
       "size": 79352
     },
     {

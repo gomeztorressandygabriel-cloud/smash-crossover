@@ -1,6 +1,9 @@
-# Smash 64 VS Melee
+# Smash 64 VS Melee — by King
 
 Super Smash Bros. 64 y Super Smash Bros. Melee en la misma partida.
+
+> ⚠️ **Versión BETA.** El juego está en desarrollo: puede haber errores, y cada versión cambia cosas.
+> Si algo falla, el lanzador te ofrece enviar el reporte del error.
 
 ## ⬇️ Descargar
 
