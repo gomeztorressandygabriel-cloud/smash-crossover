@@ -1,6 +1,6 @@
 {
-  "version": "1.0.29",
-  "notes": "Arreglado: el agarre hacia arriba de Kirby de Melee mataba en el aire a los personajes de 64 (ahora, como en Melee, nadie muere mientras esta agarrado). Arreglado: el laser de Fox de Melee (y el de Kirby cuando copia a Fox) no hacia dano a los personajes de 64; ahora cada laser suma su dano sin empujar, como en Melee.",
+  "version": "1.0.30",
+  "notes": "Arreglado: crash al terminar una partida cuando el de 64 gana estando en el aire o en el borde (pose de victoria). Los de 64 ya se quedan quietos con el GAME! como los de Melee.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.29--game--melee.exe",
-      "sha256": "aa8949c891fde3e9e23f74f26eefca1888578149eb77759d4dc61d0578c972ff",
-      "size": 21619598
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.30--game--melee.exe",
+      "sha256": "3322b559d1bd4d5b596e26f6f5ea829c2c6bd11f475cb0a0f7bce96586b67b20",
+      "size": 21621134
     },
     {
       "path": "game/bz2.dll",
@@ -100,8 +100,8 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.29--game--ssb64core.dll",
-      "sha256": "a2a34c2b1761c54c6ea996b824c3c683ca3642f54bf07125879a2e738ab6c07f",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.30--game--ssb64core.dll",
+      "sha256": "b4a2af07f212d41ad028c5e569d264af43f8e9560be830d79ec64b0447f02a23",
       "size": 20302336
     },
     {
@@ -256,8 +256,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.24--game--xover_test.exe",
-      "sha256": "73bee53407ac64c11d8142ebed34f590035555097495779f56b61df487637d0a",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.30--game--xover_test.exe",
+      "sha256": "30d53d61738712d0044756dd27fc1a3ef97e1fb0c5e91870e63ce4a68e51c111",
       "size": 79527
     },
     {
