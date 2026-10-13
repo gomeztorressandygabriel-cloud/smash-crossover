@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
-  "notes": "Online con personajes de 64: el juego ya no se queda esperando a la tarjeta gr\u00e1fica para leer la imagen de los de 64 (los cuadros m\u00e1s lentos bajan de ~15 ms a ~5 ms en la medici\u00f3n). Nada cambia visualmente. Misma partida, mismo estado entre jugadores (0 diferencias en la prueba con rollbacks).",
+  "version": "1.0.33",
+  "notes": "Ningun personaje puede agarrar un borde que ya tiene otro, aunque sean de juegos distintos (Melee y 64). El Canto de Jigglypuff ahora duerme tambien entre juegos: Jigglypuff de Melee duerme a los de 64 y Jigglypuff de 64 duerme a los de Melee.",
   "files": [
     {
       "path": "Smash 64 VS Melee.exe",
@@ -16,9 +16,9 @@
     },
     {
       "path": "game/melee.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.32--game--melee.exe",
-      "sha256": "f7116a6d361aca87b90b56990028402985a9c7be32f73e82b4b4767f324c61eb",
-      "size": 21626764
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.33--game--melee.exe",
+      "sha256": "d6f945b106d99af10cbe03c09e3904f1d43fab0e0777f4410ed43bfcfb278f78",
+      "size": 21630579
     },
     {
       "path": "game/bz2.dll",
@@ -100,9 +100,9 @@
     },
     {
       "path": "game/ssb64core.dll",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.32--game--ssb64core.dll",
-      "sha256": "2534d0cda54072df9b7104e5464284e51fd559acedd55317710ab0d006bda0b5",
-      "size": 20303872
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.33--game--ssb64core.dll",
+      "sha256": "a125843782f5fb0dd0ee0a3259875ff30529c5d9a674e9b7fed85c2f92b0f1b7",
+      "size": 20305920
     },
     {
       "path": "game/ssb64core.prev.dll",
@@ -256,8 +256,8 @@
     },
     {
       "path": "game/xover_test.exe",
-      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.32--game--xover_test.exe",
-      "sha256": "0696a1850b237302a4461f0896e290f064eff8161986e1263cfb17e63ccdbf94",
+      "url": "https://github.com/gomeztorressandygabriel-cloud/smash-crossover/releases/download/archivos-actualizacion/v1.0.33--game--xover_test.exe",
+      "sha256": "3d340e220dfcc1c840141d8d29faf90e0e73b0efb1e57568340b2f399d40768f",
       "size": 79527
     },
     {
